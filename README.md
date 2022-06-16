@@ -1,5 +1,5 @@
 # BIBLIOTECA DE LIVROS :books: #
 
-Olá! Bem vindo à biblioteca de livros, as melhores indicações!
+Olá! Bem vindo a minha biblioteca de livros, temos as melhores indicações!
 
-* Os 5 melhores livros programação.
+* Primeira proposta: Os 5 melhores livros programação.
